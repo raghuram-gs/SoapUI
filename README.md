@@ -7,8 +7,6 @@
 
 SoapUI is a tool to automate testing of Webservices which are either SOAP based or Restful based
 
-
-
 ## SoapUI editons
 
 **Community edition** - Open source free tool
@@ -22,18 +20,22 @@ Download and install from their website
 ## Creating a project
 
 You can directly create a new project based on a WSDL(SOAP) based url or a WADL based uri.
+
+<<Creation of project through URI>>
+
 This will create a project and add all the web request methods available in the description for us to test.
 
 
-Furthermore, you can also import from a Postman collections project from the File menu
+Furthermore, you can also import tests from a Postman collections project from the File menu
 
 <<File menu>>
 
-It also has options to import/export a Swagger definition you can check them in the Project menu
+In additon to that, it also has options to import/export a Swagger definition you can check them in the Project menu
 
 <<Project menu>>
 
 ## Testing the service
+
 
 
 ## Project hierarchy

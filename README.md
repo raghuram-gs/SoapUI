@@ -88,6 +88,8 @@ There are three levels in your test project
 
 ## Loops, Datasource and Datasinks
 
+## Database connection
+
 ## Groovy scripts
 
 ## Mock servers

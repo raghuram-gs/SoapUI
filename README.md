@@ -88,6 +88,10 @@ Add test steps from request/response section
 
 ## Passing values to steps
 
+Values can be passed from one step to another through a property transfer step
+
+
+
 ## Adding, Modifying properties
 
 ## Authentication and authorization

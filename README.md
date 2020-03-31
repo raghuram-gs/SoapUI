@@ -47,30 +47,30 @@ You can play around the different web service methods with different inputs in t
 
 There are three levels in your test project
 
-**TestSuite** - Contains a logical grouping of test cases like for e.g. SmokeTest, RegressionTest, SystemTest
+- [X] **TestSuite** - Contains a logical grouping of test cases like for e.g. SmokeTest, RegressionTest, SystemTest
 
-**TestCases** - Contains a collection of test steps which describes a scenario to be tested
+- [X] **TestCases** - Contains a collection of test steps which describes a scenario to be tested
 
-**TestSteps** - A request or step or action
+- [X] **TestSteps** - A request or step or action
 
 <>
 
 
 ## Properties
 
-**Global properties**
+- [X] **Global properties**
 
 <>
 
-**Project properties**
+- [X] **Project properties**
 
 <>
 
-**Testsuite properties**
+- [X] **Testsuite properties**
 
 <>
 
-**Testcase properties**
+- [X] **Testcase properties**
 
 <>
 

@@ -2,10 +2,9 @@
 
 ## Restful
 
-
 # SoapUI
 
-SoapUI is a tool to automate testing of Webservices which are either SOAP based or Restful based
+SoapUI is a tool to automate testing of Webservices(**API testing**) which are either SOAP based or Restful based
 
 ## SoapUI editons
 
@@ -15,7 +14,7 @@ SoapUI is a tool to automate testing of Webservices which are either SOAP based 
 
 ## Installation
 
-Download and install from their website
+Download and install from their website - https://www.soapui.org/downloads/soapui.html
 
 ## Creating a project
 
@@ -36,9 +35,16 @@ In additon to that, it also has options to import/export a Swagger definition yo
 
 ## Testing the service
 
+Once the project is created with the URL, SoapUI automaticalliy adds all the available web service or api methods like below
 
+
+
+You can play around the different web service methods with different inputs in the request and check the response from the server
 
 ## Project hierarchy
+
+
+
 
 ## Properties
 
@@ -55,3 +61,5 @@ In additon to that, it also has options to import/export a Swagger definition yo
 ## Loops, Datasource and Datasinks
 
 ## Groovy scripts
+
+## Mock servers

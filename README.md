@@ -5,9 +5,9 @@ SoapUI is a tool to automate testing of Webservices(**API testing**) which are e
 
 ## SoapUI editons
 
-**Community edition** - Open source free tool
+**Community edition** - Free tool
 
-**Pro editon** - Paid with some advance features
+**Pro editon** - Paid with advance features
 
 ## Installation
 

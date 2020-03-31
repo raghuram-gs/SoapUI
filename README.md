@@ -1,6 +1,3 @@
-## Soap
-
-## Restful
 
 # SoapUI
 

@@ -58,27 +58,31 @@ There are three levels in your test project
 
 ## Properties
 
+Below are the levels at which you can add properties as key value pairs:
+
 - [X] **Global properties**
 
-<>
 
 - [X] **Project properties**
 
-<>
 
 - [X] **Testsuite properties**
 
-<>
 
 - [X] **Testcase properties**
 
-<>
 
 ## Testcases and teststeps
 
 
 
 ## Assertions
+
+### String
+
+### XPath
+
+### SLA
 
 ## Passing values to steps
 

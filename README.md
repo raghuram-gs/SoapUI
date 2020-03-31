@@ -70,7 +70,13 @@ Below are the levels at which you can add properties as key value pairs:
 
 ## Testcases and teststeps
 
+Add test steps in test cases
 
+![](SOAPUI/AddTestStepInTestCase.png)
+
+Add test steps from request/response section
+
+![](SOAPUI/AddTestStepToTestCase.png)
 
 ## Assertions
 

@@ -37,18 +37,46 @@ In additon to that, it also has options to import/export a Swagger definition yo
 
 Once the project is created with the URL, SoapUI automaticalliy adds all the available web service or api methods like below
 
-
+<>
 
 You can play around the different web service methods with different inputs in the request and check the response from the server
 
+<>
+
 ## Project hierarchy
 
+There are three levels in your test project
 
+**TestSuite** - Contains a logical grouping of test cases like for e.g. SmokeTest, RegressionTest, SystemTest
+
+**TestCases** - Contains a collection of test steps which describes a scenario to be tested
+
+**TestSteps** - A request or step or action
+
+<>
 
 
 ## Properties
 
+**Global properties**
+
+<>
+
+**Project properties**
+
+<>
+
+**Testsuite properties**
+
+<>
+
+**Testcase properties**
+
+<>
+
 ## Testcases and teststeps
+
+
 
 ## Assertions
 
